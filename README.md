@@ -59,4 +59,17 @@ Este programa foi feito para verificar a cache do computador, primeiro ira aloca
 
 ---
 
+**EXTRA**: Foi feito uma implementação em *C++ usando OpenMP*, para executar é usado:
+
+- COMPILAÇÃO:
+
+  ```g++
+     g++ main.c++ -o main.c++ -fopenmp -O3
+  ```
+- EXECUÇÃO
+
+  ```
+    ./scriptc++.sh
+  ```
+
 ---
