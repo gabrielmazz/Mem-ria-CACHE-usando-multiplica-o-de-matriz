@@ -34,8 +34,6 @@ Este programa foi feito para verificar a cache do computador, primeiro ira aloca
       - "-n" -> Executa apenas o tempo
       - NULL -> Não ira fazer nenhuma ação
   - ```
-
-
     MULTIPLICAÇÃO
 
     - Comentar o if da linha 155
