@@ -1,8 +1,8 @@
 # Trabalho 03 - CACHE
 
-##### Organização e Arquitetura de Computadores - Edmar Bellorine
+#### Organização e Arquitetura de Computadores - Edmar Bellorine
 
-**Gabriel Mazzuco - Heloisa Alves**
+>Colaboradores: Gabriel Mazzuco ([GitHub Profile](https://github.com/gabrielmazz)) e Heloisa Alves ([Github Profile](https://github.com/Helogizzy))
 
 ---
 
